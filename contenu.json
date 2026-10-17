@@ -1,33 +1,27 @@
 {
-"accueil": "👻 ATM PHANTOM\n\n✨ Un espace clair, simple et efficace.\n\nDécouvre nos différentes catégories et choisis celle qui correspond à ton besoin.\n\n📩 Pour échanger directement, contacte @dxlx335.\n\n👇 Sélectionne une catégorie ci-dessous :",
-
-"categories": {
-"mutuelle": {
-"titre": "🩺 MUTUELLE — REMBOURSEMENT",
+"accueil": "👻 BIENVENUE SUR ATM PHANTOM\n\n💜 Sélectionne une rubrique ci-dessous.",
+"rubriques": {
+"Mutuelle": {
+"titre": "🩺 REMBOURSEMENT MUTUELLE",
 "texte": "💶 Tu as besoin d’aide pour ton remboursement mutuelle ?\n\nOn t’aide dans tes démarches et pour organiser les documents nécessaires."
 },
-
-"amazon": {
-"titre": "📦 AMAZON — REMBOURSEMENT DE COMMANDE",
+"Amazon": {
+"titre": "📦 REMBOURSEMENT AMAZON",
 "texte": "💳 Remboursement de commande grâce au LIT."
 },
-
-"call": {
-"titre": "📞 ALLO / CALL — VICTIME",
+"Call": {
+"titre": "📞 ALLO / CALL",
 "texte": "🚨 Appel aux banquiers si tu es victime."
 },
-
-"location": {
-"titre": "🏠 DOSSIER LOCATION",
+"Location": {
+"titre": "🏠 DOSSIER LOCATIF",
 "texte": "📁 Fiche de paie, contrat de travail et tout ce qu’il faut pour que ton dossier passe."
 },
-
-"flyers": {
-"titre": "🎨 FLYERS — TOUS COMMERCES",
+"Flyers": {
+"titre": "🎨 FLYERS",
 "texte": "🔥 Tu veux mettre ton commerce ou ton activité en avant ?\n\nOn te crée un flyer propre et adapté à ton image."
 },
-
-"snap": {
+"Snap": {
 "titre": "👻 FILTRES SNAP",
 "texte": "📸 Tu veux un filtre Snapchat personnalisé pour ton événement, ton commerce ou ton projet ?\n\nPrésente-nous ton idée et on s’occupe du reste."
 }
