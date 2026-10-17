@@ -15,7 +15,7 @@ from telegram.ext import Application, CallbackQueryHandler, CommandHandler
 ROOT = Path(__file__).resolve().parent
 BANNER = ROOT / "assets" / "banner.png"
 CONTACT_URL = "https://t.me/dxlx335"
-KEYS = ('Mutuelle🩺', 'Amazon📦', 'Call📞', 'Location🏠', 'Flyers🎨', 'Snap👻')
+KEYS = ('Mutuelle', 'Amazon', 'Call', 'Location', 'Flyers', 'Snap')
 LABELS = dict(zip(KEYS, (
     "🩺 MUTUELLE", "📦 AMAZON", "📞 CALL", "🏠 LOCATION", "🎨 FLYERS", "👻 SNAP",
 )))
