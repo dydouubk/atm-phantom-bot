@@ -3,7 +3,7 @@
 "rubriques": {
 "Mutuelle": {
 "titre": "🩺 REMBOURSEMENT MUTUELLE",
-"texte": "💶 Tu as besoin d’aide pour ton remboursement mutuelle ?\n\nOn t’aide dans tes démarches et pour organiser les documents nécessaires."
+"texte": "💶 Je me connecte à t'a mutuelle, et je fais passer un faux remboursement dentaire, on fais 50/50"
 },
 "Amazon": {
 "titre": "📦 REMBOURSEMENT AMAZON",
@@ -11,7 +11,7 @@
 },
 "Call": {
 "titre": "📞 ALLO / CALL",
-"texte": "🚨 Appel aux banquiers si tu es victime."
+"texte": "🚨 Tu te fais passer pour un faux conseiller banquier, le but étant de vider le compte bancaire de la victime"
 },
 "Location": {
 "titre": "🏠 DOSSIER LOCATIF",
