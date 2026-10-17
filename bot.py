@@ -15,7 +15,7 @@ def load_content():
     if not isinstance(welcome, str) or not welcome.strip() or len(welcome.encode("utf-16-le")) // 2 > 4096:
         raise ValueError("Accueil vide ou trop long")
     sections = {}
-    for key in ("mutuelle", "amazon", "call", "location", "flyers", "snap"):
+    for key in ("Mutuelle🩺", "Amazon📦", "Call📞", "Location🏠", "Flyers🎨", "Snap👻"):
         item = data["rubriques"][key]
         title, text = item["titre"], item["texte"]
         if not isinstance(title, str) or not title.strip() or len(title) > 64:
