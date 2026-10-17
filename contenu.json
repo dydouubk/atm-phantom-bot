@@ -1,0 +1,29 @@
+{
+  "Accueil": "ATM PHANTOM\nBienvenue ! Choisis une rubrique ci-dessous.",
+  "rubriques": {
+    "Mutuelle🩺": {
+      "titre": "Remboursement Mutuelle",
+      "texte": "ide pour tes démarches de remboursement mutuelle"
+    },
+    "Amazon📦": {
+      "titre": "Remboursement Amazon",
+      "texte": "Remboursement de commande grâce au LIT"
+    },
+    "Call📞": {
+      "titre": "Allo/Call",
+      "texte": "Tu te fais passer pour un faux conseiller banquier"
+    },
+    "Location🏠": {
+      "titre": "Dossier Location",
+      "texte": "Fiche de paie, contrat de travail et tout ce qu’il faut pour que ton dossier passe"
+    },
+    "Flyers🎨": {
+      "titre": "Flyers",
+      "texte": "Des flyers personnalisés pour ton commerce, ton activité ou tes événements"
+    },
+    "Snap👻": {
+      "titre": "Filtres Snap",
+      "texte": "Des filtres Snapchat personnalisés pour tes événements ou ta communication"
+    }
+  }
+}
