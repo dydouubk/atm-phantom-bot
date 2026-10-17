@@ -4,6 +4,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY bot.py contenu.json ./
-COPY assets/ ./assets/
+RUN mkdir -p assets
+COPY banner.png.png ./assets/banner.png
 USER 10001
 CMD ["python", "bot.py"]
