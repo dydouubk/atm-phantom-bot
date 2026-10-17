@@ -1,29 +1,11 @@
 {
-  "accueil": "ATM PHANTOM\nBienvenue ! Choisis une rubrique ci-dessous.",
+  "accueil": "ATM PHANTOM\n\nUn espace clair. Un accompagnement soigné.\n\nDécouvrez nos rubriques et choisissez celle qui vous correspond. Pour échanger directement, contactez @dxlx335.\n\nSélectionnez votre rubrique ci-dessous.",
   "rubriques": {
-    "Mutuelle🩺": {
-      "titre": "Remboursement Mutuelle",
-      "texte": "ide pour tes démarches de remboursement mutuelle"
-    },
-    "Amazon📦": {
-      "titre": "Remboursement Amazon",
-      "texte": "Remboursement de commande grâce au LIT"
-    },
-    "Call📞": {
-      "titre": "Allo/Call",
-      "texte": "Tu te fais passer pour un faux conseiller banquier"
-    },
-    "Location🏠": {
-      "titre": "Dossier Location",
-      "texte": "Fiche de paie, contrat de travail et tout ce qu’il faut pour que ton dossier passe"
-    },
-    "Flyers🎨": {
-      "titre": "Flyers",
-      "texte": "Des flyers personnalisés pour ton commerce, ton activité ou tes événements"
-    },
-    "Snap👻": {
-      "titre": "Filtres Snap",
-      "texte": "Des filtres Snapchat personnalisés pour tes événements ou ta communication"
-    }
+    "mutuelle": {"titre": "Mutuelle", "texte": "Comprendre vos démarches de remboursement et organiser les justificatifs authentiques correspondant aux soins réellement reçus.\n\nAide à la préparation d'une demande auprès de votre organisme, sans garantie de remboursement. Aucun faux justificatif ni demande fictive.\n\nN'envoyez pas de données médicales dans ce bot."},
+    "amazon": {"titre": "Amazon", "texte": "Besoin d'aide pour une commande, un retour ou une réclamation réelle ? Préparez votre demande et contactez le service client officiel depuis votre compte.\n\nUniquement pour vos propres commandes et des faits exacts. Aucune fausse déclaration ni contournement des conditions de remboursement.\n\nNe partagez pas vos identifiants ici."},
+    "call": {"titre": "Appels bancaires", "texte": "Préparer vos questions avant de contacter votre banque et comprendre les étapes d'un échange avec votre conseiller.\n\nAppelez vous-même le numéro officiel de votre établissement. Aucune usurpation d'identité ni intervention au nom d'une banque.\n\nNe transmettez jamais de code SMS, mot de passe ou numéro de carte dans ce bot."},
+    "location": {"titre": "Dossier locatif", "texte": "Organiser un dossier lisible à partir de vos documents authentiques : classement, liste des pièces et présentation.\n\nAucune fabrication ou modification trompeuse de fiches de paie, avis fiscaux ou justificatifs.\n\nCe bot ne collecte pas de documents personnels. Contactez-nous pour préciser votre besoin sans envoyer de pièce sensible."},
+    "flyers": {"titre": "Flyers", "texte": "Donnez une présentation soignée à votre activité ou votre événement.\n\nPour préparer votre demande : objectif, textes, format, identité visuelle et délai souhaité. Utilisez uniquement des éléments que vous avez le droit de publier.\n\nContactez @dxlx335 pour en discuter."},
+    "snap": {"titre": "Filtres Snap", "texte": "Présentez votre idée de visuel ou de filtre : univers graphique, occasion et éléments à intégrer.\n\nUtilisez des images et marques avec autorisation. La publication dépend des outils et règles de la plateforme.\n\nContactez @dxlx335 pour préciser votre projet."}
   }
 }
